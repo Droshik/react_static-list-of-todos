@@ -1,0 +1,2 @@
+.todo-list{list-style:none;font-family:"Roboto",sans-serif;padding:0}.todo-list__item{padding:5px 20px;background-color:#eee}.todo-list__item:nth-child(2n){background-color:#d4d4d4}.todo-list__item:hover{background-color:#bbb}.todo-list__user{font-weight:700}.todo-list__status._n{color:red}.todo-list__status._y{color:green}
+/*# sourceMappingURL=main.a49dadb7.chunk.css.map */
